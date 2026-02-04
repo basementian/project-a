@@ -1,0 +1,11 @@
+export const MAX_DIP_DURATION_HOURS = 4;
+export const CLAIM_PROXIMITY_METERS = 200;
+export const DEFAULT_SEARCH_RADIUS_METERS = 2000;
+export const MAX_SEARCH_RADIUS_METERS = 10000;
+export const MOCK_OTP = '123456';
+export const PLATFORM_FEE_PERCENT = 15;
+export const DIP_EXPIRY_WARNING_MINUTES = 10;
+export const DEFAULT_MAP_ZOOM = 14;
+export const DEFAULT_MAP_STYLE = 'mapbox://styles/mapbox/streets-v12';
+export const MIN_DIP_DURATION_MINUTES = 15;
+export const DIP_DURATION_STEP_MINUTES = 15;
